@@ -1,0 +1,264 @@
+{
+  "cesp_version": "1.0",
+  "name": "sc2_scv",
+  "display_name": "StarCraft II SCV",
+  "version": "1.0.0",
+  "description": "StarCraft II SCV sound pack — 44 sounds across all 7 CESP categories. Audio recorded from StarCraft II by Blizzard Entertainment.",
+  "author": {
+    "name": "emmanuel",
+    "github": "MrDoomBringer"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "tags": ["gaming", "starcraft", "starcraft2", "sc2", "blizzard", "rts"],
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/SCVReady1.mp3",
+          "label": "SCV ready!",
+          "sha256": "f9d49daa2f22643e293b1329b92c25ad555c9d41d567d8bdc6bfbb4d767e2944"
+        },
+        {
+          "file": "sounds/SCVReady2.mp3",
+          "label": "SCV ready!",
+          "sha256": "4b7e846d857ad9efd3285e00ad49ac2e7067773e940eb1bc08ba3ee89b1426a3"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/Huh.mp3",
+          "label": "Huh?",
+          "sha256": "c464cd8ec4bb47515985379d6f4e46cb8129e6ca96af57360f2a29a60f68d2a3"
+        },
+        {
+          "file": "sounds/WhatsGoinOn.mp3",
+          "label": "What's going on?",
+          "sha256": "2b54b266071ce1b5add2b1e731d333937b230a18eb567b117edfd968d6290813"
+        },
+        {
+          "file": "sounds/BadNews.mp3",
+          "label": "Bad news?",
+          "sha256": "8141e7fe890f69bbbe0c7233e3aa4ff02acb15654844534cb4b7599ea7a917eb"
+        },
+        {
+          "file": "sounds/BigJobHuh.mp3",
+          "label": "Big job, huh?",
+          "sha256": "7395057f1482df2e161b7f448e68886e5c70fcbdb27a7cff7a099708f5363029"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/AhYouScaredMe.mp3",
+          "label": "Ah! You scared me!",
+          "sha256": "7bad859d0e3c2481387d9763a49aca091bd49bda2d07694e9c1d65d6f570a458"
+        },
+        {
+          "file": "sounds/ThisIsCrazy.mp3",
+          "label": "This is crazy!",
+          "sha256": "2281dbd29aca18f4f82dec337a37a5c60384330a9e92a9902dff24f796fcc66d"
+        },
+        {
+          "file": "sounds/ThisIsYourPlan.mp3",
+          "label": "This is your plan?",
+          "sha256": "ecab46c0e49fbda8144dc8ab385aff83d8367a98254835239b877a6eac8530f1"
+        },
+        {
+          "file": "sounds/HowsThisAnImprovement.mp3",
+          "label": "How's this an improvement?",
+          "sha256": "1b4f88dd6f8e10ce842f4323a36ed97ad87e3de137ca37a2aea2c8c97a7e0ac8"
+        },
+        {
+          "file": "sounds/GetMeOutOfHere.mp3",
+          "label": "Get me out of here!",
+          "sha256": "e6202fbb1cefd26f4fe13b6e096e533fd27a3e17fff3d87010640376d3ff6193"
+        },
+        {
+          "file": "sounds/TooYoungToDie.mp3",
+          "label": "I'm too young to die!",
+          "sha256": "2b43f67270e477426d62a5001d64ea2b44bed665d9b90c37e0ad6c318ceb01f0"
+        },
+        {
+          "file": "sounds/Help.mp3",
+          "label": "Help!",
+          "sha256": "7be0a7be4943a1d2f93e9013f44ead982eb0b8f139bd2ef9ffc416b9452788a7"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/GoAhead.mp3",
+          "label": "Go ahead.",
+          "sha256": "c8e687455186fd80c8012fcfdc8183f8cbd79f0a97b473bdf3366763a800a1d1"
+        },
+        {
+          "file": "sounds/InTheRearWithTheGear.mp3",
+          "label": "In the rear, with the gear.",
+          "sha256": "c91b2257d72e0ac6573f54978c8076b5f586bee0853a671cc9f317ae34a7eeb0"
+        },
+        {
+          "file": "sounds/YoureTheBoss.mp3",
+          "label": "You're the boss!",
+          "sha256": "9126f86dc9fa9ad354698aacf8cb612bbbc1adb417306fea1862e1c8ccda74f1"
+        },
+        {
+          "file": "sounds/Yup1.mp3",
+          "label": "Yup!",
+          "sha256": "c5ec368e86be49e8180dfc527ed937b452204ce20403796afcb523163ceede42"
+        },
+        {
+          "file": "sounds/YeahWhatever.mp3",
+          "label": "Yeah, whatever.",
+          "sha256": "94fdb717d1c0709fec5f2e9006b38a9496b7d1e73c8642794feaf3cdcc47b786"
+        },
+        {
+          "file": "sounds/ItsYourDime.mp3",
+          "label": "It's your dime.",
+          "sha256": "f130bd3c5df76012005c1df6f0e5bac7dc5745ed51a8bf26ecf44d9c1eb5192b"
+        },
+        {
+          "file": "sounds/WoohooOvertime.mp3",
+          "label": "Woohoo! Overtime!",
+          "sha256": "25257dcdb039a90aa23da759dc2d204f7897b579864e04d061f14c2294601ce0"
+        },
+        {
+          "file": "sounds/WellButterMyBiscuit.mp3",
+          "label": "Well, butter my biscuit.",
+          "sha256": "d3ddf276126113ac37a79420c0619cdf5d0ef6b37af2e91d68098d556ad2953b"
+        },
+        {
+          "file": "sounds/Yeah.mp3",
+          "label": "Yeah.",
+          "sha256": "447eba34dc59e9193388834df271072d4dfc7dca5d1758debcbf7cb2a50f0683"
+        },
+        {
+          "file": "sounds/Yup2.mp3",
+          "label": "Yup!",
+          "sha256": "39a8b75730aa544da788e4aa53274973e5cd3d06d0adc3d62fc42e0b96635c94"
+        },
+        {
+          "file": "sounds/Yo.mp3",
+          "label": "Yo!",
+          "sha256": "642d0b7bb61c3c06978cab3740d22431e930f3716f6f36ac7a5da608b8e02fc2"
+        },
+        {
+          "file": "sounds/Gotcha.mp3",
+          "label": "Gotcha!",
+          "sha256": "1f94c0f8b64a3bb10bb7829613572abe3d45755a6501b54ff386860887c84da9"
+        },
+        {
+          "file": "sounds/UhHuh.mp3",
+          "label": "Uh, huh.",
+          "sha256": "9cfc42a0424853f766fc88c94f7cf1b93e3189261772ea35c99508b180642b8f"
+        },
+        {
+          "file": "sounds/WillDo.mp3",
+          "label": "Will do!",
+          "sha256": "cf19f3752996c0b1c9668fb5e8f6d241359d758b7f2843bb1e1efce26ed1458d"
+        },
+        {
+          "file": "sounds/WeHearYa.mp3",
+          "label": "We hear ya!",
+          "sha256": "acc554d0184c601c5510eb3348b57c759533e50ca60e1284d48d90fbe4376607"
+        },
+        {
+          "file": "sounds/YesSir.mp3",
+          "label": "Yes sir!",
+          "sha256": "9d388997ecd70c84ecfac704d8844f5c9d7250e718baef54c18637010dd7cecc"
+        },
+        {
+          "file": "sounds/SureThing.mp3",
+          "label": "Sure thing!",
+          "sha256": "589758d8ab58d1335dae145ae071ff80442ec7c866f23de99fdf0d5a72080b0f"
+        },
+        {
+          "file": "sounds/Roger.mp3",
+          "label": "Roger.",
+          "sha256": "d6d8692cc3ad30eaecd836dac71f3bd604bc1b69172d357c848d10826d39b065"
+        },
+        {
+          "file": "sounds/ImGoin.mp3",
+          "label": "I'm goin'.",
+          "sha256": "399af766103245fbe97f2efe74f24e46adfa6f591f45d73de2502cd085a35074"
+        },
+        {
+          "file": "sounds/MoveIt.mp3",
+          "label": "Move it!",
+          "sha256": "0400bfc160668efe59b1d5213c5326072da93c55478c35e02bd5cec23beb781f"
+        },
+        {
+          "file": "sounds/YeahYeah.mp3",
+          "label": "Yeah, yeah.",
+          "sha256": "f8c5d8ac172b597fe09bdbaea48eed824e646220b501f5037488f7b99bb93e98"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/RunOutOfMarines.mp3",
+          "label": "What, you run out of marines?",
+          "sha256": "ba7dfd6ed77b18ec5fe4e373d546e7207269a2f962a9df8573337749bd920036"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/ThatsJustGreat.mp3",
+          "label": "Oh, that's just great...",
+          "sha256": "c805dc72deb5d411cdc8b4cd53bcbd18b9d373502bc0282d8cb902f65dcf9943"
+        },
+        {
+          "file": "sounds/CantBuildHere.mp3",
+          "label": "I can't build here.",
+          "sha256": "5241178da9f6f968e6c9eff57cfadc6c0111aab7e93f382737560f76fbcaa891"
+        },
+        {
+          "file": "sounds/SomethingInTheWay.mp3",
+          "label": "There's something in the way.",
+          "sha256": "afc360b59d1db937aa5d27ac412ae082e1e4e023cd6791742daab0f0d46e6d34"
+        },
+        {
+          "file": "sounds/ThatsANegatory.mp3",
+          "label": "That's a negatory.",
+          "sha256": "8cad397618e4120cee7389571742effcb2e14dd46caea9af88ccec03f21cf0c7"
+        },
+        {
+          "file": "sounds/ItsBlocked.mp3",
+          "label": "It's blocked.",
+          "sha256": "082cba5d30f4b48cf9a4e725b03e1b2854204bf3cfc993b603b892393310535f"
+        },
+        {
+          "file": "sounds/YouMeanInThere.mp3",
+          "label": "You mean, in there?",
+          "sha256": "f786bc8f8b2b515851f1fb489e8d48e40a384f9cc7ae4a7ffe73248439af7eda"
+        },
+        {
+          "file": "sounds/NotWhatIHadInMind.mp3",
+          "label": "Not what I had in mind.",
+          "sha256": "b41b0fd89b58440937b7c70562f0c94c4ef84286ba69861525bdb65099f87b3c"
+        },
+        {
+          "file": "sounds/ThisSucks.mp3",
+          "label": "This sucks.",
+          "sha256": "fb629e0c15505c6a0ee87f84e58b8c30641e8acc0af1d62058a2e6ffd58fe59e"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/JobsFinished.mp3",
+          "label": "Job's finished!",
+          "sha256": "18bbec4696a90914e94231e1d95b82b07b7f35460594231da37196e7c1a86a51"
+        }
+      ]
+    }
+  }
+}
