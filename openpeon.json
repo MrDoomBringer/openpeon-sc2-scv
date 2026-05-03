@@ -1,8 +1,8 @@
 {
   "cesp_version": "1.0",
   "name": "sc2_scv",
-  "display_name": "StarCraft II SCV",
-  "version": "1.0.0",
+  "display_name": "Emm's StarCraft II SCV",
+  "version": "1.0.1",
   "description": "StarCraft II SCV sound pack — 44 sounds across all 7 CESP categories. Audio recorded from StarCraft II by Blizzard Entertainment.",
   "author": {
     "name": "emmanuel",

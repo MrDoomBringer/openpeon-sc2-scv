@@ -1,4 +1,4 @@
-# StarCraft II SCV — peon-ping pack
+# Emm's StarCraft II SCV — peon-ping pack
 
 A peon-ping sound pack featuring 44 SCV voice lines from StarCraft II, mapped across all 7 CESP categories (session start, task acknowledge/complete/error, input required, resource limit, user spam).
 
